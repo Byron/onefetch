@@ -41,7 +41,7 @@ serde_yaml = "0.8"
 
 chrono = "0.4"
 chrono-humanize = "0.1.1"
-byte-unit = "4.0.9"
+byte-unit = "4.0.18"
 
 [target.'cfg(windows)'.dependencies]
 ansi_term = "0.12"
